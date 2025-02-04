@@ -31,6 +31,11 @@ python -m src.main
 - "Open calculator"
 - "Close calculator"
 - "Calculate 5 plus 3"
+- "claculate 10 minus 4"
+- "calculate 2 times 6" for multiplication
+- "calculate 15 divided by 3" for division
+### Additional Commands
+- "Clear screen" to clear the calculator screen
 - "Exit" or "Quit" to end the application
 
 ## Supported Platforms
