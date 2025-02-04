@@ -1,5 +1,3 @@
-85+10
-5+10
 # File: src/main.py
 from .voice_recognition import VoiceRecognizer
 from .calculator_control import CalculatorController
