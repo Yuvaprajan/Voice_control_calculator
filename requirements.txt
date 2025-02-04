@@ -1,0 +1,5 @@
+# File: requirements.txt
+SpeechRecognition
+pyaudio
+pycalc
+numpy
